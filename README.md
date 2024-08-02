@@ -11,8 +11,8 @@ Password Generator: A tool for generating secure and random passwords, useful fo
 Each project is designed to be a standalone example of Python programming and can serve as a learning resource for different aspects of coding and application development.
 
 ## Features
-If statement
-Random
+If statement,
+Random,
 While statement
 
 ## Contact
